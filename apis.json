@@ -1,0 +1,77 @@
+{
+    "name": "Help Scout",
+    "description": "We created Help Scout because a typical help desk makes customers weave through a maze of customer portals, ticket numbers and unhelpful automations to get what they need. That may reduce your support volume, but it comes at the expense of frustrated c...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2044-help-scout.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/help-scout\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Help Scout",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2044-help-scout.jpg",
+            "humanURL": "http:\/\/helpscout.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/help-scout-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.helpscout.net\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.helpscout.net\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.helpscout.net\/blog\/feed\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/help-scout"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/help-scout"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.helpscout.net\/"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@helpscout.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.helpscout.net\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/helpscout"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/developer.helpscout.com\/webhooks\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/helpscout.net\/"
+        }
+    ]
+}
